@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/stagekaart/static/css/main.2a9b90b5.css",
-    "main.js": "/stagekaart/static/js/main.56b5eaf6.js",
+    "main.css": "/stagekaart/static/css/main.c708ecef.css",
+    "main.js": "/stagekaart/static/js/main.3fe84e11.js",
     "index.html": "/stagekaart/index.html",
-    "main.2a9b90b5.css.map": "/stagekaart/static/css/main.2a9b90b5.css.map",
-    "main.56b5eaf6.js.map": "/stagekaart/static/js/main.56b5eaf6.js.map"
+    "main.c708ecef.css.map": "/stagekaart/static/css/main.c708ecef.css.map",
+    "main.3fe84e11.js.map": "/stagekaart/static/js/main.3fe84e11.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a9b90b5.css",
-    "static/js/main.56b5eaf6.js"
+    "static/css/main.c708ecef.css",
+    "static/js/main.3fe84e11.js"
   ]
 }
